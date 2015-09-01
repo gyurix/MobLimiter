@@ -1,0 +1,4 @@
+per-block-limit: 4
+per-chunk-limit: 50
+#Check intervall in ticks (1 tick=1/20 second)
+check-intervall: 1000
